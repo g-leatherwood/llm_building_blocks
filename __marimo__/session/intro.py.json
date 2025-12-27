@@ -1,0 +1,73 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.18.4"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "71d9fd869f0d19c209dbc2c273e81a65",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>True</pre>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "c7d5abeb9fccd60b3e94b96b2a011126",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "[\"text/plain:OpenAI Chat: gpt-4o\", \"text/plain:OpenAI Chat: chatgpt-4o-latest\", \"text/plain:OpenAI Chat: gpt-4o-mini\", \"text/plain:OpenAI Chat: gpt-4o-audio-preview\", \"text/plain:OpenAI Chat: gpt-4o-audio-preview-2024-12-17\", \"text/plain:OpenAI Chat: gpt-4o-audio-preview-2024-10-01\", \"text/plain:OpenAI Chat: gpt-4o-mini-audio-preview\", \"text/plain:OpenAI Chat: gpt-4o-mini-audio-preview-2024-12-17\", \"text/plain:OpenAI Chat: gpt-4.1\", \"text/plain:OpenAI Chat: gpt-4.1-mini\", \"text/plain:OpenAI Chat: gpt-4.1-nano\", \"text/plain:OpenAI Chat: gpt-3.5-turbo\", \"text/plain:OpenAI Chat: gpt-3.5-turbo-16k\", \"text/plain:OpenAI Chat: gpt-4\", \"text/plain:OpenAI Chat: gpt-4-32k\", \"text/plain:OpenAI Chat: gpt-4-1106-preview\", \"text/plain:OpenAI Chat: gpt-4-0125-preview\", \"text/plain:OpenAI Chat: gpt-4-turbo-2024-04-09\", \"text/plain:OpenAI Chat: gpt-4-turbo\", \"text/plain:OpenAI Chat: gpt-4.5-preview-2025-02-27\", \"text/plain:OpenAI Chat: gpt-4.5-preview\", \"text/plain:OpenAI Chat: o1\", \"text/plain:OpenAI Chat: o1-2024-12-17\", \"text/plain:OpenAI Chat: o1-preview\", \"text/plain:OpenAI Chat: o1-mini\", \"text/plain:OpenAI Chat: o3-mini\", \"text/plain:OpenAI Chat: o3\", \"text/plain:OpenAI Chat: o4-mini\", \"text/plain:OpenAI Chat: gpt-5\", \"text/plain:OpenAI Chat: gpt-5-mini\", \"text/plain:OpenAI Chat: gpt-5-nano\", \"text/plain:OpenAI Chat: gpt-5-2025-08-07\", \"text/plain:OpenAI Chat: gpt-5-mini-2025-08-07\", \"text/plain:OpenAI Chat: gpt-5-nano-2025-08-07\", \"text/plain:OpenAI Chat: gpt-5.1\", \"text/plain:OpenAI Chat: gpt-5.1-chat-latest\", \"text/plain:OpenAI Chat: gpt-5.2\", \"text/plain:OpenAI Chat: gpt-5.2-chat-latest\", \"text/plain:OpenAI Completion: gpt-3.5-turbo-instruct\", \"text/plain:Anthropic Messages: anthropic/claude-3-opus-20240229\", \"text/plain:Anthropic Messages: anthropic/claude-3-opus-latest\", \"text/plain:Anthropic Messages: anthropic/claude-3-sonnet-20240229\", \"text/plain:Anthropic Messages: anthropic/claude-3-haiku-20240307\", \"text/plain:Anthropic Messages: anthropic/claude-3-5-sonnet-20240620\", \"text/plain:Anthropic Messages: anthropic/claude-3-5-sonnet-20241022\", \"text/plain:Anthropic Messages: anthropic/claude-3-5-sonnet-latest\", \"text/plain:Anthropic Messages: anthropic/claude-3-5-haiku-latest\", \"text/plain:Anthropic Messages: anthropic/claude-3-7-sonnet-20250219\", \"text/plain:Anthropic Messages: anthropic/claude-3-7-sonnet-latest\", \"text/plain:Anthropic Messages: anthropic/claude-opus-4-0\", \"text/plain:Anthropic Messages: anthropic/claude-sonnet-4-0\", \"text/plain:Anthropic Messages: anthropic/claude-opus-4-1-20250805\", \"text/plain:Anthropic Messages: anthropic/claude-sonnet-4-5\", \"text/plain:Anthropic Messages: anthropic/claude-haiku-4-5-20251001\", \"text/plain:Anthropic Messages: anthropic/claude-opus-4-5-20251101\"]"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "f7a5f5563ff3979d6bd15a610e9e45e7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "5f9568e77c2136795d9a840f4dd22f7c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "{\"id\": \"msg_01U7cj6YwN4msdTpfmiBXpBj\", \"content\": [{\"citations\": null, \"text\": \"Here's a haiku about running:\\n\\nSwift feet touch the ground\\nBreath racing with beating heart\\nMiles melt beneath me\", \"type\": \"text\"}], \"model\": \"claude-3-5-haiku-20241022\", \"role\": \"assistant\", \"stop_reason\": \"end_turn\", \"stop_sequence\": null, \"type\": \"message\"}"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

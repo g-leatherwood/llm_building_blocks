@@ -1,0 +1,12 @@
+[project]
+name = "llm-building-blocks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "llm>=0.28",
+    "llm-anthropic>=0.23",
+    "marimo>=0.18.4",
+]
