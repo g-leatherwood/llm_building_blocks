@@ -45,7 +45,7 @@
     },
     {
       "id": "bkHC",
-      "code_hash": "f7a5f5563ff3979d6bd15a610e9e45e7",
+      "code_hash": "0dae4e082e6189446b967d1d6a90654d",
       "outputs": [
         {
           "type": "data",
@@ -58,15 +58,165 @@
     },
     {
       "id": "lEQa",
-      "code_hash": "5f9568e77c2136795d9a840f4dd22f7c",
+      "code_hash": "0740d4d50932946ca743ea40be06d921",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "application/json": "{\"id\": \"msg_01U7cj6YwN4msdTpfmiBXpBj\", \"content\": [{\"citations\": null, \"text\": \"Here's a haiku about running:\\n\\nSwift feet touch the ground\\nBreath racing with beating heart\\nMiles melt beneath me\", \"type\": \"text\"}], \"model\": \"claude-3-5-haiku-20241022\", \"role\": \"assistant\", \"stop_reason\": \"end_turn\", \"stop_sequence\": null, \"type\": \"message\"}"
+            "application/json": "{\"id\": \"msg_01MiczgbGEZNhagAbLtnwLJ7\", \"content\": [{\"citations\": null, \"text\": \"Here's a haiku about running:\\n\\nSwift feet touch the ground\\nBreath rising like morning mist\\nMiles fall behind me\", \"type\": \"text\"}], \"model\": \"claude-3-5-haiku-20241022\", \"role\": \"assistant\", \"stop_reason\": \"end_turn\", \"stop_sequence\": null, \"type\": \"message\"}"
           }
         }
       ],
+      "console": []
+    },
+    {
+      "id": "IXjb",
+      "code_hash": "006ae0461e5412cd51783e2ed63e36ba",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "eucs",
+      "code_hash": "e5b5e93422136ea014a10e69c2d35dda",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "{\"content\": \"Footfalls on the path,  \\nBreath mingles with morning air,  \\nFreedom in each stride.  \", \"finish_reason\": \"stop\", \"usage\": {\"completion_tokens\": 22, \"prompt_tokens\": 14, \"total_tokens\": 36, \"completion_tokens_details\": {\"accepted_prediction_tokens\": 0, \"audio_tokens\": 0, \"reasoning_tokens\": 0, \"rejected_prediction_tokens\": 0}, \"prompt_tokens_details\": {\"audio_tokens\": 0, \"cached_tokens\": 0}}, \"id\": \"chatcmpl-CvZrFhqYMMqHLlfk2DXu2giuxmxP7\", \"object\": \"chat.completion.chunk\", \"model\": \"gpt-4o-mini-2024-07-18\", \"created\": 1767838569}"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aCli",
+      "code_hash": "d8b6f82b2708980a8bfd3988d6d99837",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Ldpt",
+      "code_hash": "60211a56fd1f682c6465efa20bc2f8bf",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "{\"haikus\": [{\"poem\": \"Feet hit the pavement,\\nBreathing in sync with the wind,\\nFreedom in each stride.\"}, {\"poem\": \"Morning dew glistens,\\nFootfalls echo on the path,\\nChasing dawn's embrace.\"}, {\"poem\": \"Heart racing with joy,\\nEvery step a pulse of life,\\nThe road stretches wide.\"}, {\"poem\": \"Sunrise paints the sky,\\nLungs fill with the fresh cool air,\\nEndless road ahead.\"}, {\"poem\": \"Sweat drips like raindrops,\\nRhythm found in every beat,\\nRunning towards dreams.\"}], \"topic\": \"Running\"}"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "cDwD",
+      "code_hash": "a04538ba8d006c8bc4ba64866728410a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "[{\"id\": \"toolu_01LKsCxQ2vUzxRLxRZs6eGAf\", \"input\": {\"topic\": \"Running\", \"haikus\": [{\"poem\": \"Feet strike the pavement\\nBreath rhythm matching strides long\\nFreedom in motion\"}, {\"poem\": \"Morning mist lifting\\nRunner's silhouette gliding\\nEarth beneath my steps\"}, {\"poem\": \"Sweat drops, muscles burn\\nMiles stretch out like endless road\\nPace becomes my song\"}]}, \"name\": \"output_structured_data\", \"type\": \"tool_use\"}]"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "jfml",
+      "code_hash": "352226c18c407a33f04a6641b75b61db",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "application/json": "[{\"poem\": \"Feet strike the pavement\\nBreath rhythm matching strides long\\nFreedom in motion\"}, {\"poem\": \"Morning mist lifting\\nRunner's silhouette gliding\\nEarth beneath my steps\"}, {\"poem\": \"Sweat drops, muscles burn\\nMiles stretch out like endless road\\nPace becomes my song\"}]"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "mxdq",
+      "code_hash": "65c1cba515c2e85f7f8929639737a95f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Feet whisper on earth,  \nBreath mingles with the cool air,  \nFreedom in each stride.\n\n\nRoots twist, stones may trip,  \nNature\u2019s path beckons my heart,  \nWilderness unfurls.\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "guBd",
+      "code_hash": "5d3f16f036ffa153c125f15ef3eeb4c9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='guBd-0' random-id='b0fae066-28d4-7e48-3ed5-2bea38465cd8'><marimo-chatbot data-initial-value='{&quot;messages&quot;:[]}' data-label='null' data-show-configuration-controls='false' data-config='{&quot;max_tokens&quot;:4096,&quot;temperature&quot;:0.5,&quot;top_p&quot;:1,&quot;top_k&quot;:40,&quot;frequency_penalty&quot;:0,&quot;presence_penalty&quot;:0}' data-allow-attachments='false'></marimo-chatbot></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "FSHe",
+      "code_hash": "0105f41f1b0b49123e16d5af1df180df",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='FSHe-2' random-id='8bec95ff-c13c-f57a-d43f-312d06ed91aa'><marimo-form data-initial-value='null' data-label='null' data-element-id='&quot;FSHe-1&quot;' data-loading='false' data-bordered='true' data-submit-button-label='&quot;Submit&quot;' data-submit-button-disabled='false' data-clear-on-submit='false' data-show-clear-button='false' data-clear-button-label='&quot;Clear&quot;' data-should-validate='false'><marimo-ui-element object-id='FSHe-1' random-id='e3484837-f7cc-04e0-fdf8-f3b6acb19d9e'><marimo-text-area data-initial-value='&quot;&quot;' data-label='&quot;&lt;span class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&gt;&lt;span class=&#92;&quot;paragraph&#92;&quot;&gt;Input to summary function&lt;/span&gt;&lt;/span&gt;&quot;' data-placeholder='&quot;&quot;' data-disabled='false' data-debounce='true' data-full-width='false'></marimo-text-area></marimo-ui-element></marimo-form></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lNcM",
+      "code_hash": "cfa2a0d6da57a86fcf4fc4df3f1c92bb",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "{'cons': ['May discourage potential investors by highlighting the high risks '\n          'of investing in private tech companies.',\n          'Could be overwhelming or complex for those unfamiliar with '\n          'investment language or the venture capital process.'],\n 'pros': ['Provides insights into the intersection of technology and '\n          'investment strategies.',\n          'Explores the role of inspiration from unconventional sources like '\n          'comedy in career decisions.',\n          'Raises awareness about the risks associated with investing in '\n          'private companies, especially through SPVs.'],\n 'summary': \"Tim Ferriss interviews Bill Gurley, discussing Gurley's research \"\n            \"for his new book and his interest in comedy's role in empowering \"\n            'unconventional career choices. They touch upon the concept of '\n            'bubbles in technology, particularly AI, referencing Carlota '\n            \"Perez's theories about technological waves and speculation. \"\n            'Gurley expresses concerns about the current investment climate, '\n            'particularly for retail investors using special purpose vehicles '\n            '(SPVs), warning about the inherent risks of investing in private '\n            'companies without sufficient transparency. He highlights the '\n            'disparity between perceived and actual risk tolerance among new '\n            'investors and emphasizes the challenges of the venture capital '\n            'landscape today.',\n 'title': 'Summary'}\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "fzCW",
+      "code_hash": null,
+      "outputs": [],
       "console": []
     }
   ]
