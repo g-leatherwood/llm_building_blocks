@@ -9,4 +9,5 @@ dependencies = [
     "llm>=0.28",
     "llm-anthropic>=0.23",
     "marimo>=0.18.4",
+    "pandas>=2.3.3",
 ]
