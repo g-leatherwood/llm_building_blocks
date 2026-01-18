@@ -16,6 +16,7 @@ __marimo__/
 # Data files like .csv or .xlsx
 *.csv
 *.xlsx
+.cache/
 
 # Files I don't want public
 experiments.py
